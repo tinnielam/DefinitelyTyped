@@ -379,8 +379,7 @@ declare namespace JQueryUI {
         stack?: boolean;
         title?: string;
         width?: any; // number or string
-        zIndex?: number;
-
+        
 		open?: DialogEvent;
         close?: DialogEvent;
     }
